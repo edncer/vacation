@@ -1,0 +1,36 @@
+h1 {width:100%;
+	font-size:50px;
+	color: black;
+	font-family: "Reprise Title Std";
+	text-align: center;
+}
+
+
+p {width:100%;
+	font-size:16px;
+	color: black;
+	font-family:"Andale Mono";
+	text-align: center;
+}
+
+h2{width:100%;
+	font-size:24px;
+	color: black;
+	font-family: "Reprise Title Std";
+	text-align: center;
+}
+
+h3{width:100%;
+	font-size:20px;
+	color: black;
+	font-family:"Bodoni 72 Smallcaps";
+	text-align: center;
+}
+
+a{width:100%;
+	font-size:16px;
+	color: black;
+	font-family:"Bodoni 72 Smallcaps";
+	text-align: center;
+	text-decoration:none;}
+
